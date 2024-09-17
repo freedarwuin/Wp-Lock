@@ -1,26 +1,25 @@
-#  Wp-venom
-- Updated July
+# Wp-venom
+- Actualizado en julio
 
-## About
-- Unlimited Lock(premium)
-- Lock Any Country Numbers
-- Life Time Access
-# Description
-It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number With this Tool They can't Login / They Cant Request For Otp
+## Acerca de
+- Bloqueo ilimitado (premium)
+- Bloqueo de números de cualquier país
+- Acceso de por vida
+# Descripción
+Es un Wp-venom simple para restringir el inicio de sesión de WhatsApp. Cuando bloquea un número con esta herramienta, no pueden iniciar sesión ni solicitar una OTP
 ![](https://raw.githubusercontent.com/STARK-404/Whatsapp-Lock/main/images/l0ck.jpg)
 ![](https://raw.githubusercontent.com/STARK-404/Whatsapp-Lock/main/images/Screenshot_2024-04-17-08-01-25-928_com.whatsapp~2.jpg)
 
 # Tutorial
 
-
-<a href='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'>Click Here</a>
+<a href='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'>Haga clic aquí</a>
 <video src='https://mrstarkstore.000webhostapp.com/Tutorial.mp4'> </video>
 
-# Installation
-## Linux(Not Tested)
-### 50% Chance to work
+# Instalación
+## Linux (no probado)
+### 50 % de posibilidades de que funcione
 ```
-sudo apt update 
+sudo apt update
 sudo apt upgrade
 sudo apt install git nodejs npm python-pip
 git clone https://github.com/STARK-404/Wp-Lock
@@ -30,48 +29,48 @@ python Run.py
 ```
 ## Termux
 ```
-pkg update 
-pkg upgrade 
+pkg update
+pkg upgrade
 pkg install git nodejs python
-git clone https://github.com/STARK-404/Wp-Lock
+git clone Español:https://github.com/STARK-404/Wp-Lock
 cd Wp-Lock
 pip install -r requirements.txt
 python Run.py
 ```
 ## Windows
-**Install Git**:
-- Go to the official Git website: https://git-scm.com/
-- Download the latest version for Windows.Run the installer.
-- Follow the installation steps, leaving the options at their defaults unless you have specific preferences.
-- Once installed, open Git Bash to verify the installation by typing git --version and pressing Enter.You should see the installed Git version.
-  
-**Install Node.js**:
-- Go to the official Node.js website: https://nodejs.org/
-- Download the LTS (Long Term Support) version for Windows.
-- Run the installer.
-- Follow the installation steps, leaving the options at their defaults unless you have specific preferences.
-- Once installed, open Command Prompt or PowerShell and type node -v to check if Node.js is installed. You should see the installed Node.js version.
-- Additionally, you can type npm -v to verify that npm (Node Package Manager) is also installed.That's it! You've successfully installed Git and Node.js on your Windows system.
-  
-**Download Python Installer**-:
+**Instalar Git**:
+- Ve al sitio web oficial de Git: https://git-scm.com/
+- Descarga la última versión para Windows. Ejecuta el instalador.
+- Sigue los pasos de instalación, dejando las opciones en sus valores predeterminados a menos que tengas preferencias específicas.
+- Una vez instalado, abre Git Bash para verificar la instalación escribiendo git --version y presionando Enter. Deberías ver la versión de Git instalada.
 
-- Go to the official Python website: https://www.python.org/
-- Navigate to the "Downloads" section.
-- Download the latest version of Python for Windows. Make sure to choose the version that matches your system architecture (32-bit or 64-bit). It's recommended to download the latest stable version.
-  
-**Run Python Installer**:
+**Instalar Node.js**:
+- Ve al sitio web oficial de Node.js: https://nodejs.org/
+- Descarga la versión LTS (Long Term Support) para Windows.
+- Ejecuta el instalador.
+- Sigue los pasos de instalación, dejando las opciones en sus valores predeterminados a menos que tengas preferencias específicas.
+- Una vez instalado, abre el Símbolo del sistema o PowerShell y escribe node -v para comprobar si Node.js está instalado. Deberías ver la versión instalada de Node.js.
+- Además, puedes escribir npm -v para verificar que npm (Node Package Manager) también esté instalado. ¡Eso es todo! Has instalado correctamente Git y Node.js en tu sistema Windows.
 
-- Once the installer is downloaded, double-click on it to run.
-- Check the box that says "Add Python x.x to PATH" during installation. This option ensures that Python is added to the system PATH, allowing you to run Python from any command prompt.
-- Follow the installation steps, leaving the options at their defaults unless you have specific preferences.
+**Descarga el instalador de Python**:
 
-**Verify Python Installation**:
+- Ve al sitio web oficial de Python: https://www.python.org/
+- Navega hasta la sección "Descargas".
+- Descarga la última versión de Python para Windows. Asegúrate de elegir la versión que coincida con la arquitectura de tu sistema (32 bits o 64 bits). Se recomienda descargar la última versión estable.
 
-- After installation, open Command Prompt or PowerShell.
-- Type python --version and press Enter to check if Python is installed. You should see the installed Python version.You can also type pip `--version` to verify that pip (Python Package Installer) is installed.
+**Ejecuta el instalador de Python**:
 
-**Clone The repo**:
-- Download the repo zip from
+- Una vez que se haya descargado el instalador, haz doble clic en él para ejecutarlo.
+- Marca la casilla que dice "Agregar Python x.x a PATH" durante la instalación. Esta opción garantiza que Python se agregue a la RUTA del sistema, lo que le permite ejecutar Python desde cualquier símbolo del sistema.
+- Siga los pasos de instalación, dejando las opciones en sus valores predeterminados a menos que tenga preferencias específicas.
+
+**Verificar la instalación de Python**:
+
+- Después de la instalación, abra el Símbolo del sistema o PowerShell.
+- Escriba python --version y presione Entrar para verificar si Python está instalado. Debería ver la versión de Python instalada. También puede escribir pip `--version` para verificar que pip (Instalador de paquetes de Python) esté instalado.
+
+**Clonar el repositorio**:
+- Descargue el archivo zip del repositorio desde
 `https://github.com/STARK-404/Wp-Lock.git`
 - Unzip the File
 - Open Cmd
@@ -101,4 +100,4 @@ Buyme A coffee! :
 
 # About 
 <img src="https://profile-counter.glitch.me/{STARK-404}/count.svg" alt="madushadhanushka :: Visitor's Count" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=STARK-404&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=freedarwuin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Estadísticas de Github"/>
